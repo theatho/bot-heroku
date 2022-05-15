@@ -1,0 +1,36 @@
+{
+  "name": "bot-heroku",
+  "description": "Livegram clone",
+  "keywords": [
+    "telegram",
+    "modular"
+    "python3.8"
+    "productivity"
+    "install"
+    "setup"
+  ],
+  "website": "https://quiec.tech/",
+  "repository": "https://github.com/theatho/bot-heroku",
+  "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Bot token",
+      "required": false
+    },
+    "DB_TUR": {
+      "description": "db or json",
+      "value": "db",
+      "required": false
+    },
+    "ADMIN_ID": {
+      "description": "admin id",
+      "value": "452321614",
+      "required": false
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
+}
