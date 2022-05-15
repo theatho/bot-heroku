@@ -2,7 +2,10 @@
   "name": "bot-heroku",
   "description": "Livegram clone",
   "keywords": [
-    "telegram","modular","python","php","productivity","install","setup"
+    "telegram",
+    "php"
+    "install"
+    "setup"
   ],
   "website": "https://quiec.tech/",
   "repository": "https://github.com/theatho/bot-heroku",
