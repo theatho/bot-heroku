@@ -1,14 +1,13 @@
 {
-  "name": "bot-heroku",
+  "name": "pmChatBot",
   "description": "Livegram clone",
   "keywords": [
-    "telegram"
-    "php"
-    "install"
-    "setup"
+    "telegram",
+    "php",
+    "bot"
   ],
   "website": "https://quiec.tech/",
-  "repository": "https://github.com/theatho/bot-heroku",
+  "repository": "https://github.com/quiec/pmChatBot",
   "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
   "env": {
     "BOT_TOKEN": {
